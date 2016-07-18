@@ -1,0 +1,32 @@
+
+body{
+    margin: 0px;
+    background-color: #D3D8E8;
+}
+.border{
+    border: 2px solid red;
+}
+
+.background-color-header{
+    background-color: #2b669a;
+    border-radius: 0px;
+}
+
+.foreground-color-header{
+    color: white;
+}
+.navbar-form-margin-text{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.navbar-form-margin-input{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-login-button{
+    background-color: #2b669a;
+    color: white;
+}
+.image{
+    url : "../public/img/facebook-map.png"
+}
